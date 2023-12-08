@@ -1,0 +1,20 @@
+E:\App\Новая папка\BotWF\BotWF\bin\Debug\BotWF.exe.config
+E:\App\Новая папка\BotWF\BotWF\bin\Debug\BotWF.exe
+E:\App\Новая папка\BotWF\BotWF\bin\Debug\BotWF.pdb
+E:\App\Новая папка\BotWF\BotWF\obj\Debug\BotWF.csproj.AssemblyReference.cache
+E:\App\Новая папка\BotWF\BotWF\obj\Debug\BotWF.Properties.Resources.resources
+E:\App\Новая папка\BotWF\BotWF\obj\Debug\BotWF.csproj.GenerateResource.cache
+E:\App\Новая папка\BotWF\BotWF\obj\Debug\BotWF.csproj.CoreCompileInputs.cache
+E:\App\Новая папка\BotWF\BotWF\obj\Debug\BotWF.exe
+E:\App\Новая папка\BotWF\BotWF\obj\Debug\BotWF.pdb
+E:\App\Новая папка\BotWF\BotWF\obj\Debug\BotWF.Form1.resources
+E:\App\KarateBotWF\BotWF\bin\Debug\BotWF.exe.config
+E:\App\KarateBotWF\BotWF\bin\Debug\BotWF.exe
+E:\App\KarateBotWF\BotWF\bin\Debug\BotWF.pdb
+E:\App\KarateBotWF\BotWF\obj\Debug\BotWF.csproj.AssemblyReference.cache
+E:\App\KarateBotWF\BotWF\obj\Debug\BotWF.Form1.resources
+E:\App\KarateBotWF\BotWF\obj\Debug\BotWF.Properties.Resources.resources
+E:\App\KarateBotWF\BotWF\obj\Debug\BotWF.csproj.GenerateResource.cache
+E:\App\KarateBotWF\BotWF\obj\Debug\BotWF.csproj.CoreCompileInputs.cache
+E:\App\KarateBotWF\BotWF\obj\Debug\BotWF.exe
+E:\App\KarateBotWF\BotWF\obj\Debug\BotWF.pdb
